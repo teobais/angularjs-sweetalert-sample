@@ -11,7 +11,7 @@ function validationCtrl($scope) {
 		if ($scope.username != validUsername || $scope.email != validEmail) {
 			swal("No", "The data you provided are wrong!", "error");
 		} else {
-			sweetAlert("Hello world!");
+			sweetAlert("Yes!", "This is what we 're looking for!", "success");
 		}
 	}
 }
