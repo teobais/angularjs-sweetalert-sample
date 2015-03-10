@@ -6,10 +6,10 @@ The full example will be published in a week (so this is going to be updated), b
 
 A successful validation alert:
 <p align="center">
-  <img  src="/_img/success.png" alt="success" />
+  <img  src="_img/success.png" alt="success" />
 </p>
 
 An erroneous validation alert:
 <p align="center">
-  <img  src="/_img/error.png" alt="error" />
+  <img  src="_img/error.png" alt="error" />
 </p>
